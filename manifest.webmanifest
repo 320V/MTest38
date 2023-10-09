@@ -1,0 +1,15 @@
+{
+    "name": "MEB - Küplerle Doğru Orantı",
+    "short_name": "MEB - Küplerle Doğru Orantı",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#1D806D",
+    "theme_color": "#000",
+    "description": "Küplerle Doğru Orantı",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
